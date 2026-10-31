@@ -1,0 +1,12 @@
+# IDE / editor
+.trae/
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# temp
+*.tmp
+*.log
